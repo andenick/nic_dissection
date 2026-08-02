@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Bank Regulatory Data Dictionary"
+message: "If you use this dataset, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - family-names: Anderson
+    given-names: Nicholas
+    email: nickawebbox@gmail.com
+    affiliation: "The New School for Social Research"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # Nick to fill
+repository-code: "https://github.com/andenick/bank-data-dictionary"
+abstract: >-
+  A detailed open catalogue of U.S. bank regulatory data: every major information
+  collection and its subschedules, the MDRM code system, the FFIEC NIC
+  institutional-structure data, the identifier crosswalk, cross-form mappings, and
+  reconciliation formulas. v10.0 documents all 22 FR Y-9C schedules plus Call
+  Report line items across 42 collections, ships a Relationship Registry of 7,539
+  relationships, and enforces 100% MDRM/UBPR token validity (11,126/11,126,
+  CI-enforced), empirically validated against 208 million FR Y-9C rows and 1.9
+  billion Call Report rows.
+keywords:
+  - banking
+  - regulatory-data
+  - mdrm
+  - ffiec
+  - call-report
+  - fr-y-9c
+version: "10.0"
+date-released: "2026-06-11"
+license: MIT
