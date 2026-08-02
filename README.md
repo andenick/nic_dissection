@@ -451,7 +451,7 @@ For an annotated directory of every source — what each provides, its coverage,
 
 ## Companion Project: FreeNIC
 
-This repository is the **catalogue / mapping** product. Its sibling, **[FreeNIC](https://github.com/andenick/FreeNIC)**, is the **data-access** package — it lets you download and query ~2.3 billion rows of the actual filings (1863–2026) via Python/SQL. Use this repo to understand *what the data is and how it fits together*; use FreeNIC to *get and query it*.
+This repository is the **catalogue / mapping** product. Its sibling, **[FreeNIC](https://github.com/andenick/FreeNIC)**, is the **data-access** package — it lets you download and query ~4.97 billion rows of the actual filings (1863–2026) via Python/SQL. Use this repo to understand *what the data is and how it fits together*; use FreeNIC to *get and query it*.
 
 ---
 
