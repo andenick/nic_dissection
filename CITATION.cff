@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Bank Regulatory Data Dictionary"
+message: "If you use this dataset, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - family-names: Anderson
+    given-names: Nicholas
+repository-code: "https://github.com/andenick/bank-data-dictionary"
+abstract: >-
+  An open catalogue of U.S. bank regulatory data: the major information
+  collections and their subschedules, the MDRM code system, the FFIEC NIC
+  institutional-structure data, the identifier crosswalk, cross-form mappings
+  and reconciliation formulas, published as CSV and JSON alongside a written
+  guide to each form.
+keywords:
+  - banking
+  - regulatory-data
+  - mdrm
+  - ffiec
+  - call-report
+  - fr-y-9c
+version: "10.0"
+date-released: "2026-06-11"
+license: MIT
