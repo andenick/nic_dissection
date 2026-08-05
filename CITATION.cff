@@ -5,6 +5,7 @@ type: dataset
 authors:
   - family-names: Anderson
     given-names: Nicholas
+    website: "https://www.nickanderson.us/"
 repository-code: "https://github.com/andenick/bank-data-dictionary"
 abstract: >-
   An open catalogue of U.S. bank regulatory data: the major information
